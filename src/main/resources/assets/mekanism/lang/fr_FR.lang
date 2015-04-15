@@ -407,6 +407,7 @@ gui.config=Configurer
 gui.teleport=Téléporter
 gui.eject=Éjecter
 gui.input=Entrée
+gui.strictInput=Entrée seulement
 gui.slots=Emplacements
 gui.state=État
 gui.on=Marche
@@ -423,14 +424,178 @@ gui.modID=ID Mod
 gui.key=Clef
 gui.id=ID
 gui.finished=Terminé
+gui.well=Tout va bien !
+gui.upgrade=Amélioration
+gui.infinite=Infinie
+gui.min=Min
+gui.max=Max
+gui.delay=Délai
+gui.noDelay=Pas de délai
+gui.fuel=Carburant
+gui.heat=Chaleur
+gui.formed=Formé
+gui.incomplete=Incomplet
+gui.inductionMatrix=Matrice d'induction
+gui.matrixStats=Statistiques de la matrice
+gui.main=Principale
+gui.outputting=Rendement
+gui.dimensions=Dimensions
+gui.constituents=Constituants
+gui.cells=cellules
+gui.providers=fournisseurs
+gui.structure=Structure
+gui.dynamicTank=Réservoirs dynamiques
+gui.visuals=Visuels
+gui.noEject=Ne peut pas éjecter
+gui.undefined=Undefined
+gui.owner=Propriétaire
+gui.public=Publique
+gui.private=Privé
+gui.add=Ajouter
+gui.set=Mettre
+gui.freq=Freq
+gui.security=Sécurité
+gui.index=Indexer
+gui.producing=Production
+gui.maxOutput=Sortie max
+gui.storing=Stockage
+gui.skyBlocked=Ciel bloqué
+gui.using=Utilisation
+gui.needed=Demandé
+gui.noRecipe=Pas de recette
+gui.conflict=Conflit
+gui.height=Hauteur
+gui.mult=Mult
+gui.chunk=Chunk
+gui.vibrating=Vibrant
+gui.abundancy=Abondance
+gui.nextItem=Elément suivant
+gui.lastItem=Dernier élément
+gui.oreDictCompat=Touche compatible OreDic
+gui.toggleCooling=Bascule des mesures de refroidissement
+gui.coolingMeasurements=Activer le refroidissement
+gui.redstoneOutputMode=Mode redstone
+gui.entityDetection=Détection d'entité
+gui.moveUp=Monter
+gui.moveDown=Descendre
+
+gui.reactor.injectionRate=Taux d'injection
+
+gui.upgrades=Améliorations
+gui.upgrades.supported=Supporté
+gui.upgrades.noSelection=Pas de sélection
+gui.upgrades.amount=Quantité
+gui.upgrades.max=Max
+gui.upgrades.effect=Effet
 
 gui.chemicalInfuser.short=Infuseur C.
 gui.chemicalDissolutionChamber.short=Chambre de Dissol. C.
+gui.solarEvaporationController.short=Solar E. Controller
 
-gui.dictionary.noKey=Pas de clef.
+gui.dictionary.noKey=No key.
 
 gui.configuration=Configuration
-gui.configuration.strictInput=Entrée stricte
+gui.config=Config
+gui.configuration.side=Side Config
+gui.configuration.transporter=Transporter Config
+gui.configuration.strictInput=Strict Input
+
+gui.rotaryCondensentrator.toggleOperation=Toggle operation
+
+gui.factory.secondaryEnergy=Secondary energy
+gui.factory.autoSort=Auto-sort
+
+//Recipe types
+gui.factory.Smelting=Smelting
+gui.factory.Enriching=Enriching
+gui.factory.Crushing=Crushing
+gui.factory.Compressing=Compressing
+gui.factory.Combining=Combining
+gui.factory.Purifying=Purifying
+gui.factory.Injecting=Injecting
+
+gui.seismicReader.short=S. Reader
+gui.seismicReader.solids=Solids
+gui.seismicReader.fluids=Fluids
+gui.seismicReader.reading=Reading
+
+gui.filterSelect.title=Create New Filter
+
+gui.oredictFilter=OreDict Filter
+gui.oredictFilter.noKey=No key
+gui.oredictFilter.sameKey=Same key
+
+gui.modIDFilter=Mod ID Filter
+gui.modIDFilter.noID=No ID
+gui.modIDFilter.sameID=Same ID
+
+gui.oredictionificatorFilter=Oredictionificator Filter
+
+gui.itemFilter=Item Filter
+gui.itemFilter.noItem=No item
+gui.itemFilter.details=ItemStack Details
+gui.itemFilter.min=Min
+gui.itemFilter.max=Max
+
+gui.materialFilter=Material Filter
+gui.materialFilter.details=Using material of
+
+gui.portableTeleporter=Portable Teleporter
+
+gui.robit=Robit
+gui.robit.smelting=Robit Smelting
+gui.robit.inventory=Robit Inventory
+gui.robit.crafting=Robit Crafting
+gui.robit.greeting=Hi, I'm
+gui.robit.toggleFollow=Toggle 'follow' mode
+gui.robit.rename=Rename this Robit
+gui.robit.teleport=Teleport back home
+gui.robit.togglePickup=Toggle 'drop pickup' mode
+gui.robit.following=Following
+gui.robit.dropPickup=Drop pickup
+gui.robit.owner=Owner
+
+gui.password.setPassword=Set password
+gui.password.enterPassword=Enter password
+gui.password.fieldsEmpty=Field(s) empty
+gui.password.notMatching=Not matching
+gui.password.identical=Identical
+gui.password.invalid=Invalid
+gui.password=Password
+
+gui.logisticalSorter.default=Default
+gui.logisticalSorter.auto=Auto
+gui.logisticalSorter.roundRobin=Round-robin
+
+gui.electricChest.editPassword=Edit Password
+
+gui.teleporter.notReady=Not ready
+gui.teleporter.ready=Ready
+gui.teleporter.noFrame=No frame
+gui.teleporter.noLink=No link
+gui.teleporter.exceeds=Links > 2
+gui.teleporter.needsEnergy=Needs energy
+gui.teleporter.noAccess=You don't have access to this teleporter.
+gui.teleporter.noFreq=No frequency
+
+gui.digitalMinerConfig=Digital Miner Config
+
+gui.digitalMiner.autoPull=Auto-pull
+gui.digitalMiner.replaceBlock=Replace block
+gui.digitalMiner.reset=Reset
+gui.digitalMiner.silkTouch=Silk touch
+gui.digitalMiner.pull=Pull
+gui.digitalMiner.silk=Silk
+gui.digitalMiner.toMine=To mine
+gui.digitalMiner.running=Running
+gui.digitalMiner.inverse=Inverse mode
+gui.digitalMiner.requireReplace=Require replace
+gui.digitalMiner.fuzzyMode=Fuzzy mode
+gui.digitalMiner.missingBlock=Missing block
+
+//Recipe names
+recipe.mekanismShaped=Shaped
+
 
 gui.rotaryCondensentrator.toggleOperation=Changer d'opération
 
