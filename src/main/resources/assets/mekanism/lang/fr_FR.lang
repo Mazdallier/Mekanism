@@ -346,13 +346,13 @@ update.outdated=Vous utilisez d'anciennes versions d'un ou plusieurs modules
 
 //Upgrades
 upgrade.energy=Energie
-upgrade.energy.desc=Increases energy efficiency !nand capacity of machinery.
+upgrade.energy.desc=Augmente l'économie d'énergie !net la capacité de la machinerie.
 upgrade.speed=Vitesse
-upgrade.speed.desc=Increases speed of machinery.
+upgrade.speed.desc=Augmente la vitesse de la machinerie.
 upgrade.filter=Filtre
-upgrade.filter.desc=A filter that separates !nheavy water from regular water.
+upgrade.filter.desc=Un filtre qui sépare !nl'eau lourde de l'eau normale.
 upgrade.gas=Gaz
-upgrade.gas.desc=Increases the efficiency !nof gas-using machinery.
+upgrade.gas.desc=Augmente l'efficacité !nde la machinerie au gaz.
 
 //Key description text
 key.mode=Bascule de mode d'éléments
@@ -685,59 +685,59 @@ tooltip.jetpack.disabled=Désactivé
 tooltip.seismicReader.needsEnergy=Pas assez d'énergie pour interpréter les vibrations
 tooltip.seismicReader.noVibrations=Impossible de découvrir des vibrations
 
-tooltip.EnrichmentChamber=Une machine simple utilisée pour enrichir !nles minerais dans deux de leurs équivalents !nen poussière, aussi bien qu'exécuter beaucoup !nd'autres opérations.
-tooltip.OsmiumCompressor=Une machine assez avancée utilisée pour !ncomprimer l'osmium dans diverses poussières pour !ncréer leurs équivalents en lingot.
+tooltip.EnrichmentChamber=Une machine simple utilisée pour enrichir les minerais !nen deux de leurs équivalents en poussière, !naussi bien qu'exécuter beaucoup d'autres opérations.
+tooltip.OsmiumCompressor=Une machine assez avancée utilisée !npour comprimer l'osmium dans diverses poussières !net créer leurs équivalents en lingot.
 tooltip.Combiner=Une machine utilisée pour combiner les poussières !net les pavés pour former leurs équivalents minerais.
 tooltip.Crusher=Une machine utilisée pour broyer les lingots en poussières, !naussi bien qu'exécutez beaucoup d'autres opérations.
-tooltip.DigitalMiner=Un hautement-advancé avec filtrage mineur automatique !nqui peut miner quelque soit le bloc que vous lui demandiez !nDans un rayon de 32 blocs maxi.
-tooltip.BasicFactory=The lowest tier of the line of Factories, !nwhich can be used to process multiple !nmachine operations at once.
-tooltip.AdvancedFactory=The middle tier of the line of Factories, !nwhich can be used to process multiple !nmachine operations at once.
-tooltip.EliteFactory=The highest tier of the line of Factories, !nwhich can be used to process multiple !nmachine operations at once.
-tooltip.MetallurgicInfuser=A machine used to infuse various materials !ninto (generally) metals to create metal alloys !nand other compounds.
-tooltip.PurificationChamber=An advanced machine capable of processing !nores into three clumps, serving as the initial !nstage of 300% ore processing.
-tooltip.EnergizedSmelter=A simple machine that serves as a Mekanism-based !nfurnace that runs off of energy.
-tooltip.Teleporter=A machine capable of teleporting players to various !nlocations defined by another teleporter.
-tooltip.ElectricPump=An advanced pump capable of pumping !nout an entire lava lake.
-tooltip.ElectricChest=A portable, 54-slot chest that uses energy to lock !nitself from others by means of password protection.
-tooltip.Chargepad=A universal chargepad that can charge !nany energized item from any mod.
-tooltip.LogisticalSorter=A filter-based, advanced sorting machine that !ncan auto-eject specified items out of and into !nadjacent inventories and Logistical Transporters.
-tooltip.RotaryCondensentrator=A machine capable of converting gasses into !ntheir fluid form and vice versa.
-tooltip.ChemicalInjectionChamber=An elite machine capable of processing !nores into four shards, serving as the initial !nstage of 400% ore processing.
-tooltip.ElectrolyticSeparator=A machine that uses the process of !nelectrolysis to split apart a certain !ngas into two different gasses.
-tooltip.PrecisionSawmill=A machine used to process logs and other !nwood-based items more efficiently, as well !nas to obtain sawdust.
-tooltip.ChemicalDissolutionChamber=An ultimate machine used to chemically !ndissolve all impurities of an ore, !nleaving an unprocessed slurry behind.
-tooltip.ChemicalWasher=An ultimate machine that cleans unprocessed !nslurry and prepares it for crystallization.
-tooltip.ChemicalCrystallizer=An ultimate machine used to crystallize !npurified ore slurry into ore crystals.
-tooltip.ChemicalOxidizer=A machine capable of oxidizing !nsolid materials into gas phase.
-tooltip.ChemicalInfuser=A machine that produces a new !ngas by infusing two others.
-tooltip.SeismicVibrator=A machine that uses seismic vibrations to !nprovide information on differing layers !nof the world.
-tooltip.PressurizedReactionChamber=An advanced machine that processes a !nsolid, liquid and gaseous mixture and !ncreates both a gaseous and solid product.
-tooltip.PortableTank=A handy, portable tank that lets you !ncarry 14 buckets of fluid wherever you !nplease. Also doubles as a bucket!
-tooltip.FluidicPlenisher=A machine that is capable of creating entire !nlakes by filling ravines with fluids.
-tooltip.Laser=An advanced form of linear energy!ntransfer that utilizes an extremely!ncollimated beam of light.
-tooltip.LaserAmplifier=A block that can be used to merge,!nredirect and amplify laser beams,!nwith fine controls over when to fire.
-tooltip.LaserTractorBeam=A block used to merge and!nredirect laser beams. Collects!ndrops from blocks it has broken.
-tooltip.SolarNeutronActivator=A machine that directs the neutron radiation !nof the sun into its internal reservoir, allowing !nfor the slow creation of various isotopes.
-tooltip.Oredictionificator=A machine used to unify and translate between various items !nand blocks using the Ore Dictionary.
+tooltip.DigitalMiner=Hautement-advancé avec filtrage, ce mineur automatique !npeut miner quelque soit le bloc que vous lui demandiez. !nDans un rayon de 32 blocs maxi.
+tooltip.BasicFactory=Niveau le plus bas des lignes d'usines !npouvant être utilisé pour traiter !ntrois opérations de machine d'un coup.
+tooltip.AdvancedFactory=Niveau médian des lignes d'usines !npouvant être utilisé pour traiter !nquatre opérations de machine d'un coup.
+tooltip.EliteFactory=Niveau le plus haut des lignes d'usines !npouvant être utilisé pour traiter !ncinq opérations de machine d'un coup.
+tooltip.MetallurgicInfuser=Une machine utilisée pour infuser diférent materiaux !n(généralement) des métaux pour créer des alliages métalique !nou d'autres composants.
+tooltip.PurificationChamber=Une machine avancée capable de convertir !nles minerais en trois bouquets, servant à l'étape initiale !ndu traitement de minerai à 300%.
+tooltip.EnergizedSmelter=Une machine simple qui sert comme un four Mekanism !n qui manquerai d'énergie.
+tooltip.Teleporter=Une machine capable de téléporter les joueurs !nà divers emplacements définis par d'autre téléporteurs.
+tooltip.ElectricPump=Une pompe avancée capable de pomper !nentièrement un lac de lave.
+tooltip.ElectricChest=Un coffre portable de 54 emplacements utilisant de l'énergy !npour se verrouiller aux autres au moyen d'un mot de passe de protection.
+tooltip.Chargepad=une plaque de rechargement universelle qui peut charger !nn'importe quel élément énergétique d'autres mod.
+tooltip.LogisticalSorter=Avec filtrage, cette machine de tri avancée !npeut éjecter automatiquement des éléments spécifiques dedans et hors !ndes inventaires adjacents et des transporteurs logistiques.
+tooltip.RotaryCondensentrator=Une machine capable de convertir des gaz !nen leurs formes fluides et vice versa.
+tooltip.ChemicalInjectionChamber=Une machine d'élite capable of convertir !nles minerais en quatre éclats, servant à l'étape initiale !ndu traitement de minerai à 400%.
+tooltip.ElectrolyticSeparator=Une machine utilisée dans le processus !nd'électrolyse pour séparer un certain !ngaz en deux gaz différents.
+tooltip.PrecisionSawmill=Une machine utilisée plus efficacement dans les processus !nde rondins et autres éléments en bois, !naussi bien qu'obtenir la sciure de bois.
+tooltip.ChemicalDissolutionChamber=Une machine ultime utilisée pour dissoudre chimiquement !ntoutes les impuretés d'un minerai, !nLaissant une boue non-traitée derrière-elle.
+tooltip.ChemicalWasher=Une machine ultime qui lave la boue non-traitée !net la prépare pour sa cristallisation.
+tooltip.ChemicalCrystallizer=Une machine ultime utilisée pour cristalliser !nla boue de minerai purifiée en cristaux de minerai.
+tooltip.ChemicalOxidizer=Une machine capable d'oxydation !ndes matériaux solides en phase gazeuse.
+tooltip.ChemicalInfuser=Une machine qui produit un nouveau gaz !npar l'infusion de deux autres.
+tooltip.SeismicVibrator=Une machine qui utilise les vibrations sismiques !npour fournir des informations sur les différentes couches !ndu sous-sol.
+tooltip.PressurizedReactionChamber=Une machine avancé qui traite !nune mixture solide, liquide et gaseuse!npour créer à la fois une production gaseuse et solide.
+tooltip.PortableTank=Un réservoir portable à la main qui vous permet !nde porter 14 seau de fluide partout où celà vous plais. !nIl double aussi vos seaux !
+tooltip.FluidicPlenisher=Une machine qui est capable de créer des lacs entiers !nen remplissant les ravines de fluides.
+tooltip.Laser=Une forme avancée de transfert d'énergie linéaire!nqui exploite un rayon de lumimère extrêmement cohérent.
+tooltip.LaserAmplifier=Un bloc qui peut être utilisé pour fusionner,!nrediriger et amplifier les rayons laser,!navec un cotrôle perfectionné de leur trajectoire.
+tooltip.LaserTractorBeam=Un bloc qui utilisé pour fusionner !net rediriger les rayons laser. !n Récoltez les éléments des blocs qu'il détruit.
+tooltip.SolarNeutronActivator=Une machine qui redirige les radiations de neutron radiation !ndu soleil dans son réservoir interne, !nautorisant la lente création d'isotopes variés.
+tooltip.Oredictionificator=Une machine utilisée pour unifier et traduire différent éléments !net blocs à l'aide du dictionaire de minerai.
 
-tooltip.HeatGenerator=Générateur qui utilise la chaleur de !nla lave ou d'autres ressources pour produire !nde l'énergie.
-tooltip.SolarGenerator=Générateur qui utilise la puissance  !nsolaire pour produire de l'énergie.
-tooltip.GasGenerator=Générateur qui exploite le changement !nmoléculaire des gaz pour produire de l'énergie.
+tooltip.HeatGenerator=Générateur qui utilise la chaleur de la lave !nou d'autres ressources pour produire de l'énergie.
+tooltip.SolarGenerator=Générateur qui utilise la puissance solaire !npour produire de l'énergie.
+tooltip.GasGenerator=Générateur qui exploite le changement moléculaire des gaz !npour produire de l'énergie.
 tooltip.BioGenerator=Générateur qui brule les matériaux organiques !ndu monde pour produire de l'énergie.
 tooltip.AdvancedSolarGenerator=Générateur avancé qui absorbe directement !nles rayons solaire avec peu de pertes !npour produire de l'énergie..
-tooltip.WindTurbine=Générateur qui utilise la force du vent !pour produire de l'énergie, l'efficacité augmentant !naux niveaux les plus haut.
+tooltip.WindTurbine=Générateur qui utilise la force du vent !npour produire de l'énergie, l'efficacité augmentant avec l'altitude.
 
-tooltip.ReactorGlass=Reinforced glass that can be used in !nthe Fusion Reactor multiblock.
-tooltip.ReactorLaserFocusMatrix=A panel of Reactor Glass that !nis capable of absorbing optical energy and !nthereby heating up the Fusion Reactor.
-tooltip.ReactorController=The controlling block for the entire !nFusion Reactor structure.
-tooltip.ReactorFrame=Reinforced framing that can be used in !nthe Fusion Reactor multiblock.
-tooltip.ReactorNeutronCapturePlate=A block that can be used to !nboth block Fusion Reactor radiation and assist !nin the production of Tritium.
-tooltip.ReactorPort=A block of reinforced framing that is capable !nof managing both the gas and energy transfer !nof the Fusion Reactor.
-tooltip.ReactorLogicAdapter=A block that can be used to !nallow basic monitoring of a reactor using redstone.
+tooltip.ReactorGlass=Verre renforcé qui peut être utilisé !ndans le réacteur à fusion multi-bloc.
+tooltip.ReactorLaserFocusMatrix=Un panneau de verre du réacteur !nqui est capable d'absorber l'énergie optique !net ainsi chauffer le réacteur à fusion.
+tooltip.ReactorController=Le bloc de contrôle de toute !nla structure du réacteur à fusion.
+tooltip.ReactorFrame=Cadre renforcé qui peut être utilisé !ndans le réacteur à fusion multi-bloc.
+tooltip.ReactorNeutronCapturePlate=Un bloc qui peut être utilisé !nà la fois pour bloquer les radiation du réacteur à fusion !net pour assiter la production de Tritium.
+tooltip.ReactorPort=Un bloc de cadre renforcé qui est capable !nde gérer à la fois le gaz et le transfert d'énergie !ndu réacteur à fusion.
+tooltip.ReactorLogicAdapter=Un bloc qui peut être utilisé !npour permettre un contrôle de base du réacteur avec de la redstone.
 
-tooltip.OsmiumOre=A strong mineral that can be found !nat nearly any height in the world. !nIt is known to have many uses in !nthe construction of machinery.
-tooltip.CopperOre=A common, conductive material that !ncan be used in the production of !nwires. Its ability to withstand !nhigh heats also makes it essential !nto advanced machinery.
-tooltip.TinOre=A lightweight, yet sturdy, conductive !nmaterial that is found slightly less !ncommonly than Copper.
+tooltip.OsmiumOre=Un minerai résistant qui peut être trouvé !na peu pret à tous les niveau du sous-sol. !nIl est connu pour avoir beaucoup d'utilité !ndans la construction de machineries.
+tooltip.CopperOre=Un matériau conductible commun !nqui peut être dans la production de fils. !nSon habilité à conduire de forte chaleur !nle rend aussi essentiel aux machineries avancées.
+tooltip.TinOre=Un matériau léger, résistant et conductible !nqui se trouve légèrement moins facilement que le cuivre.
 
 //Side data
 sideData.None=Aucune
@@ -805,14 +805,14 @@ dye.yellow=Jaune
 dye.white=Blanc
 
 //Reactor Logic modes
-reactor.disabled=Disabled
-reactor.disabled.desc=Will not emit a redstone signal
-reactor.ready=Ready for Ignition
-reactor.ready.desc=Reactor has reached the required heat level to ignite
-reactor.capacity=Heat Capacity Met
-reactor.capacity.desc=The reactor's core heat capacity has been met
-reactor.depleted=Insufficient Fuel
-reactor.depleted.desc=The reactor has insufficient fuel to sustain a reaction
+reactor.disabled=Désactivé
+reactor.disabled.desc=n'émetrra pas de signal redstone
+reactor.ready=Prêt pour ignition
+reactor.ready.desc=Le réacteur a atteind le niveau de chaleur requise pour s'enflammer
+reactor.capacity=Capacité de chaleur atteinte
+reactor.capacity.desc=La capacité de chaleur du coeur de réacteur a été atteinte
+reactor.depleted=Carburant issufisant
+reactor.depleted.desc=Le réacteur n'a pas assez de carburant pour maintenir la réaction
 
 //Creative tab
 itemGroup.tabMekanism=Mekanism
